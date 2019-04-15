@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Blah blah blah
-image: /img/blog-index.jpg
+image: /img/blah-blah-bigger-.jpg
 heading: Blah blah blah
 subheading: Sub-blah sub-blah sub-blah
 mainpitch:
